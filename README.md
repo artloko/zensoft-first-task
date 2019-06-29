@@ -18,7 +18,7 @@ These instructions will get you a copy of the project up and running on your loc
   At a folder with the pom file:
   ```
   mvn clean package
-  java -cp target/first-task-1.0-SNAPSHOT-jar-with-dependencies.jar main.java.Main
+  java -cp target/first-task-1.0-SNAPSHOT-jar-with-dependencies.jar Main
   ```
   
   ### Built with
