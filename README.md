@@ -3,7 +3,7 @@ The solution of the first testing task for a Java Developer at a [Zensoft.io](ht
 
 The reason I chose **jsoup** library is that it is a very convenient API for extracting and manipulating data, using the best of DOM, CSS, and jquery-like methods.
 
-We're getting document that represents html page, then extract needed data by different queries .
+We're getting document that represents html page, then extract needed data by different queries.
 
 ## Getting started
 
